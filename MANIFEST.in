@@ -1,0 +1,2 @@
+include README.md
+include sametrica/algorithms/rake_lib/data/*
